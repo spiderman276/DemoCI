@@ -1,3 +1,3 @@
 #!/bin/sh
-cd /Users/huymd/Desktop/DemoCI
+cd ${WORKSPACE}
 pod install
