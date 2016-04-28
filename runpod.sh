@@ -1,3 +1,4 @@
 #!/bin/sh
-cd ${WORKSPACE}
+echo "${WORKSPACE}/DemoCI"
+cd ${WORKSPACE}/DemoCI/
 pod install
